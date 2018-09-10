@@ -1,0 +1,6 @@
+html, body {
+    margin: 0;
+    padding-bottom: 4em;
+    font-family: 'Roboto', sans-serif;
+    -webkit-print-color-adjust:exact;
+}

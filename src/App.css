@@ -1,0 +1,174 @@
+.App {
+    text-align: center;
+}
+
+.bodySpacer {
+    margin-top: 7em;
+}
+
+a {
+    color: #0d8aca;
+    font-family: "Roboto", "Helvetica", "Arial", "sans-serif";
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.openLink {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover, .openLink:hover {
+    color: rgb(225, 0, 80);
+    text-decoration: underline;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* optimizations for printing */
+
+.printing * {
+    font: 12px arial, sans-serif;
+    line-height: 1.5em !important;
+}
+
+.printing button {
+    display: none;
+}
+
+.printing ul {
+    padding: 0 0 0 0.05em;
+    margin: 0.5em 0 0 0;
+}
+.printing li {
+    margin-bottom: 0.25em;
+}
+
+.printing a {
+    color: inherit;
+}
+
+.printing div[class^="TopNav-"] header {
+    position: relative;
+    background: none;
+    text-align: center;
+    margin-top: 1em;
+    color: black;
+    box-shadow: none;
+}
+
+.printing div[class^="TopNav-"] header {
+    background: none;
+    text-align: center;
+    margin-top: 1em;
+    color: black;
+    box-shadow: none;
+}
+
+.printing .bodySpacer {
+    margin-top: 0;
+}
+
+.printing div[class^="MuiTabs-"] {
+    display: none;
+}
+
+.printing div[class^="MuiCollapse-container-"] {
+    margin-top: -2em;
+}
+
+.printing div[class*="MuiExpansionPanelSummary-expandIcon-"] {
+    display: none;
+}
+
+.printing div[class*="MuiExpansionPanel-"] {
+    box-shadow: none;
+    border: 0px solid #c7c7c7;
+}
+
+.printing img[class*="SectionDetails-techStack_img-"] {
+    height: 1.5em;
+}
+
+.printing p[class*="BodyPart-heading-"] {
+    min-width: 25em;
+}
+
+.printing h3[class*="MuiTypography-subheading-"] {
+    margin: 0;
+}
+
+.printing h3[class*="MuiExpansionPanel-root-"] {
+    margin: 0;
+}
+
+.printing div[class*="MuiExpansionPanel-expanded-"] {
+    margin: 0;
+}
+.printing p[class*="BodyPart-secondaryHeading-"] {
+    margin-left: 0;
+}
+
+.printing .collapsed div[class*="MuiExpansionPanel-"] {
+    border: none;
+}
+.printing .collapsed div[class*="MuiExpansionPanelSummary-expanded-"] {
+    margin: -1.5em 0 1.25em 0;
+}
+.printing .collapsed div[class*="BodyPart-title-"] {
+    margin-bottom: 2.5em;
+}
+.printing div[class*="MuiExpansionPanelDetails-root-"] {
+    padding: 0 1em 1em;
+}
+
+.printing div[class*="MuiExpansionPanelSummary-root-"] {
+    padding: 0;
+}
+.printing .collapsed h3[class*="BodyPart-title-"] {
+    margin: 0 0 2.5em 0;
+}
+
+.printing div[class*="SectionDetails-techStack-"] {
+    max-width: 5em;
+    bottom: 0;
+}
+.printing div[class*="SectionDetails-techStack-"] div {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.printing aside[class*="SectionDetails-fullText-"] {
+    max-width: 42em;
+}
+
+.printing div[class*="BodyPart-root-"] {
+    margin-top: 1em;
+}
+
+.printing .contact {
+    position: absolute;
+    top: 1.5em;
+    right: 1.5em
+}
+.printing .contact div {
+    font-size: 0.8em;
+}
+
+.printing .fullCVMessage {
+    opacity: 1 !important;
+    background: #0d8aca;
+    color: white;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0
+}
+
+
+
+
+
+
