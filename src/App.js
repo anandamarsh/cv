@@ -20,7 +20,7 @@ class App extends Component {
                 {CV.body.map((bodyPart, index) => <BodyPart key={index} title={bodyPart.title} type={bodyPart.type} sections={bodyPart.sections}/>)}
                 </div>
                 <Contact/>
-                <div className='fullCVMessage' style={{opacity:0}}>View full CV at <u><a href={window.location.origin}>http://www.amarshanand.com</a></u></div>
+                <div className='fullCVMessage' style={{opacity:0}}>View full CV at <u><a href='http://www.amarshanand.com'>http://www.amarshanand.com</a></u></div>
             </MuiThemeProvider>
         );
     }

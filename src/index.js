@@ -9,6 +9,7 @@ ReactDOM.render(<App/>, document.getElementById('root'));
 
 if(urlParams.printSettings){
     document.body.classList.add("printing");
+    window.onload = function() { window.print(); }
 }
 
 registerServiceWorker();
