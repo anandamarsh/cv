@@ -14,7 +14,7 @@
         {
           "title": "Introduction",
           "fullText": "<p>Born in a family of Engineers and Academics, I got passionate about computers in middle school. I started my BE in Electrical Engg at <a href='https://www.bitmesra.ac.in/'>BIT Mesra, Ranchi</a>, and transferred to BE Computer Engg at <a href='https://www.engineering.unsw.edu.au/computer-science-engineering/'>UNSW, Sydney</a>. After working for a few years at IBM, I returned back to <a href='https://www.engineering.unsw.edu.au/computer-science-engineering/'>UNSW, Sydney</a> to pursue my Phd in Mobile Computing.</p><p>Half way through my doctorate, my research ideas took me back to India, where I was introduced to <a href='https://www.intellectdesign.com/about-us/bod-arun.asp'>Arun Jain</a> through <a href='https://www.linkedin.com/in/yandlay'>Yogesh Andlay</a>.  This resulted in mine starting <a href='https://www.intellectdesign.com/'>Polaris’s Mobile Center-of-excellence</a> (called OnDaMo) in Chennai. I ran the unit for the following three years, after which, I returned to Australia for a short while.</p><p>Impressed by China’s economic growth, I then relocated to Shanghai, where I got an opportunity to open <a href='https://www.virtusa.com/'>Polaris China Development Center</a> as their Delivery Head. I later moved to Product Sales, and was promoted to be the Country Head for China.</p><p>After Polaris’s sale to Virtusa, I returned back to Australia to be the CTO for a NYC / Sydney based startup called Shodogg (now <a href='http://mashinmusic.com/'>Mash Music</a>). Within an year, I helped Shodogg create their flagship product MyMedia, and outsource the work to Vietnam.</p><p>I then returned to Shanghai to start my own EdTech startup, <a href='https://bilitutor.herokuapp.com/'>BiliTutor</a>. I built the entire product suite from scratch with a small team, and got it piloted in some Chinese and Indian universities. BiliTutor won the <a href='https://www.jobsfornsw.com.au/our-products/minimum-viable-product'>Australia Govt’s Innovation Grant</a>, which brought me back to Sydney. After selling my stake for BiliTutor, I took up a job as a Blockchain/Cryptocurrency programmer / TechLead at <a href='http://www.houstonkemp.com/'>Houston Kemp, Sydney</a>.</p>",
-          "summary": "I am a passionate technologist with a strong sense of business and entrepreneurship. My 18 years long journey from an Engineer to CTO has taught me the importance of teamwork and constant learning. Living in Australia and China, and running a software company in these countries has made me appreciate the intricacies involved in doing business across cultures. I have delivered projects worth U$5m+ and have managed sales pipeline of over U$10m. My startups have been funded by eminent Investors in India and China.<br>I have recently finished a Blockchain related project with ACIC (Australia's FBI), and am looking at opportunities globally for my next endeavour.",
+          "summary": "I am a passionate technologist with a strong sense of business and entrepreneurship. My 18 years long journey from an Engineer to CTO has taught me the importance of teamwork and constant learning. Living in Australia and China, and running a software company in these countries has made me appreciate the intricacies involved in doing business across cultures. I have delivered projects worth U$5m+ and have managed sales pipeline of over U$10m, and have managed multicultural temas of over 50 engineers and designers. My startups have been funded by eminent Investors in India and China. I hold a BS/MS in Computer Science from University of New South Wales, Sydney.<br>I have recently finished a Blockchain related project with ACIC (Australia's FBI), and am looking at opportunities globally for my next endeavour.",
           "xvideo": "https://vimeo.com/183188071"
         },
         {
@@ -140,7 +140,11 @@
         },
         {
           "location": "usa",
-          "organization": "Eligible for E3 Visa"
+          "organization": "Eligible for E3 Visa to US"
+        },
+        {
+          "location": "china",
+          "organization": "Permanent Residency in China"
         }
       ]
     }
