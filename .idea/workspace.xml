@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baf77e4f-a477-4b92-986d-586b311952cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cv.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/cv.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="cv.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cv.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="142" column="53" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
+            <state relative-caret-position="352">
+              <caret line="21" column="1719" selection-start-line="21" selection-start-column="1719" selection-end-line="21" selection-end-column="1719" />
             </state>
           </provider>
         </entry>
@@ -261,25 +260,25 @@
       <workItem from="1536284921207" duration="39059000" />
       <workItem from="1536580951701" duration="4923000" />
       <workItem from="1536728686679" duration="3288000" />
-      <workItem from="1536925618941" duration="1940000" />
+      <workItem from="1536925618941" duration="2892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91154000" />
+    <option name="totallyTimeSpent" value="92106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17195208" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17195208" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3298969" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.21391752" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.21391752" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -643,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cv.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="142" column="53" selection-start-line="142" selection-start-column="53" selection-end-line="142" selection-end-column="53" />
+        <state relative-caret-position="352">
+          <caret line="21" column="1719" selection-start-line="21" selection-start-column="1719" selection-end-line="21" selection-end-column="1719" />
         </state>
       </provider>
     </entry>
