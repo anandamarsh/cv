@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baf77e4f-a477-4b92-986d-586b311952cc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cv.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/cv.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="cv.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cv.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="16" column="488" selection-start-line="16" selection-start-column="488" selection-end-line="16" selection-end-column="488" />
+            <state relative-caret-position="465">
+              <caret line="16" column="431" selection-start-line="16" selection-start-column="431" selection-end-line="16" selection-end-column="431" />
             </state>
           </provider>
         </entry>
@@ -64,8 +65,8 @@
       <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2179">
-              <caret line="164" column="20" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="20" />
+            <state relative-caret-position="486">
+              <caret line="171" column="17" selection-start-line="171" selection-start-column="17" selection-end-line="171" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -108,11 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>flag</find>
-      <find>techstack</find>
-      <find>worth</find>
-      <find>TopNav</find>
-      <find>printSetting</find>
       <find>withStyles</find>
       <find>this.props.</find>
       <find>classes.section</find>
@@ -138,6 +134,11 @@
       <find>Amarsh Anand's</find>
       <find>Univeristy</find>
       <find>'  h</find>
+      <find>U$1.5m</find>
+      <find>full au</find>
+      <find>UK</find>
+      <find>Living in Australia and China, a</find>
+      <find>U$5mn</find>
     </findStrings>
     <replaceStrings>
       <replace>TopNav</replace>
@@ -157,6 +158,8 @@
       <replace>},</replace>
       <replace>University</replace>
       <replace>' h</replace>
+      <replace>U$2m</replace>
+      <replace>U$5m</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -291,25 +294,25 @@
       <workItem from="1536284921207" duration="39059000" />
       <workItem from="1536580951701" duration="4923000" />
       <workItem from="1536728686679" duration="3288000" />
-      <workItem from="1536925618941" duration="3788000" />
+      <workItem from="1536925618941" duration="7506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93002000" />
+    <option name="totallyTimeSpent" value="96720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17195208" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.17195208" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3298969" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.34149486" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.34149486" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -320,6 +323,25 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17195208" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3298969" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3298969" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.34149486" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -655,13 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2179">
-          <caret line="164" column="20" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -689,10 +704,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="171" column="17" selection-start-line="171" selection-start-column="17" selection-end-line="171" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cv.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="16" column="488" selection-start-line="16" selection-start-column="488" selection-end-line="16" selection-end-column="488" />
+        <state relative-caret-position="465">
+          <caret line="16" column="431" selection-start-line="16" selection-start-column="431" selection-end-line="16" selection-end-column="431" />
         </state>
       </provider>
     </entry>
