@@ -34,6 +34,26 @@ mark {
     border-radius: 6px;
 }
 
+.blocks div[class*="MuiExpansionPanel-root-"] {
+    display: inline-block;
+}
+.blocks p[class*="BodyPart-heading-"] {
+    min-width: 100%;
+}
+.blocks div[class*="MuiExpansionPanelSummary-expandIcon"] {
+    display: none;
+}
+.collapsed div[class*="MuiExpansionPanelSummary-expandIcon"] {
+    display: none;
+}
+.Technologies p[class*="BodyPart-heading-"] {
+    min-width: 100%;
+}
+
+.Technologies, .collapsed, .blocks {
+    pointer-events:none
+}
+
 /* optimizations for printing */
 
 .printing * {
@@ -102,6 +122,12 @@ mark {
 .printing p[class*="BodyPart-heading-"] {
     min-width: 25em;
 }
+.printing .blocks p[class*="BodyPart-heading-"] {
+    min-width: 100%;
+}
+.printing .Technologies p[class*="BodyPart-heading-"] {
+    min-width: 100%;
+}
 
 .printing h3[class*="MuiTypography-subheading-"] {
     margin: 0;
@@ -116,6 +142,9 @@ mark {
 }
 .printing p[class*="BodyPart-secondaryHeading-"] {
     margin-left: 0;
+}
+.printing .Technologies div[class*="MuiExpansionPanel-expanded-"] {
+    max-height: 3.5em;
 }
 
 .printing .collapsed div[class*="MuiExpansionPanel-"] {
@@ -136,6 +165,12 @@ mark {
 }
 .printing .collapsed h3[class*="BodyPart-title-"] {
     margin: 0 0 2.5em 0;
+}
+.printing .Technologies h3[class*="BodyPart-title-"] {
+    margin: 0 0 2em 0;
+}
+.printing .Technologies {
+    margin-bottom: 2em;
 }
 
 .printing div[class*="SectionDetails-techStack-"] {

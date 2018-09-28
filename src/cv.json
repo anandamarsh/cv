@@ -100,6 +100,40 @@
       ]
     },
     {
+      "title": "Technologies",
+      "type": "collapsed",
+      "sections": [
+        {
+          "title": "Blockchain",
+          "description": "Hyperledger Fabric, Ethereum, SmartContracts, Web3, Remix, Geth, TestRPC, Solidity, Go, IPFS"
+        },
+        {
+          "title": "Frontend",
+          "description": "React, Redux, Mobx, GraphQL, MaterialUI, Angular 1.x, JQuery, Vanilla JS, HTML5, CSS3, SAAS/LESS"
+        },
+        {
+          "title": "Backend",
+          "description": "Node, ES6, Python, Apigee, Java/J2EE, C# .NET (basic), AWS Lambda / Cognito"
+        },
+        {
+          "title": "Mobile",
+          "description": "Objective C, Swift (basic), React Native (basic), Android (basic), J2ME, Symbian"
+        },
+        {
+          "title": "Databases",
+          "description": "MongoDB, DynamoDB, MySql, PostgreSql"
+        },
+        {
+          "title": "Testing",
+          "description": "TDD / BDD, Selenium, Jasmine, Mocha, Postman, githooks, CI/CD"
+        },
+        {
+          "title": "Methodologies",
+          "description": "Agile, Scrum / Kanban, Sprints, Product Owner, Scrum Master, Jira, Confluence"
+        }
+      ]
+    },
+    {
       "title": "Education",
       "type": "collapsed",
       "sections": [
@@ -128,7 +162,7 @@
     },
     {
       "title": "Visa Status",
-      "type": "collapsed",
+      "type": "blocks",
       "sections": [
         {
           "location": "australia",
@@ -136,15 +170,15 @@
         },
         {
           "location": "india",
-          "organization": "OCI (Overseas Citizen of India)"
+          "organization": "Indian OCI"
         },
         {
           "location": "usa",
-          "organization": "Eligible for E3 Visa to US"
+          "organization": "Eligible for US E3 Visa"
         },
         {
           "location": "china",
-          "organization": "Permanent Residency in China"
+          "organization": "Chinese Resident"
         }
       ]
     }

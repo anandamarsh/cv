@@ -41,6 +41,15 @@ const styles = theme => ({
         marginRight: '1em',
         float: 'left',
         marginTop: '-0.2em'
+    },
+    tech_title: {
+        display: 'inline-block',
+        color: theme.palette.text.primary
+    },
+    tech_description: {
+        display: 'inline-block',
+        marginLeft:'1em',
+        color:theme.palette.text.secondary
     }
 });
 
@@ -50,7 +59,7 @@ class BodyPart extends React.Component {
         const { classes } = this.props;
 
         return (
-            <div className={`${classes.root} ${this.props.type}`}>
+            <div className={`${classes.root} ${this.props.type} ${this.props.title}`}>
                 {this.props.title && <Typography variant="subheading" className={classes.title} color="secondary">{this.props.title}</Typography>}
                 {this.props.sections.map((section, index) =>
                     <ExpansionPanel key={index} expanded={urlParams.printSettings?true:null}>
@@ -61,12 +70,16 @@ class BodyPart extends React.Component {
                                 <span className={classes.period}>{section.period[0]}-{section.period[1]}</span>
                                 <a target="_blank" className={`openLink`} href={section.url} onClick={e=>e.stopPropagation()}>{section.organization}</a>
                              </Typography>}
+                            {this.props.title==='Technologies' && <Typography className={classes.heading}>
+                                <span className={classes.tech_title}>{section.title}</span>
+                                <span className={classes.tech_description}>{section.description}</span>
+                            </Typography>}
                             {this.props.title==='Visa Status' && <Typography className={classes.heading}>
                                 <img className={classes.flag} src={`flags/${section.location}.png`} alt={section.location}/>{section.organization}
                             </Typography>}
                             {(this.props.title==='Employment' || this.props.title==='Education') && <Typography className={classes.secondaryHeading}>{section.role}</Typography>}
                         </ExpansionPanelSummary>
-                        {this.props.title!=='Education' && this.props.title!=='Visa Status' &&
+                        {this.props.title!=='Technologies' && this.props.title!=='Education' && this.props.title!=='Visa Status' &&
                             <SectionDetails title={this.props.title} fullText={section.fullText} summary={section.summary}
                                             video={section.video} techStack={section.techStack?section.techStack:[]}/>}
                     </ExpansionPanel>)}
