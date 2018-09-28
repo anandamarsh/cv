@@ -190,6 +190,13 @@ mark {
     margin-top: 1em;
 }
 
+.printing img[class*="BodyPart-flag-"] {
+    margin-top: 0em;
+}
+.printing .employment img[class*="BodyPart-flag-"] {
+    margin-top: 0.15em;
+}
+
 .printing .contact {
     position: absolute;
     top: 1.5em;
@@ -208,6 +215,7 @@ mark {
     letter-spacing: 1.5px;
     bottom: 0
 }
+
 
 
 
