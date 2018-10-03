@@ -65,7 +65,7 @@ class Contact extends React.Component {
     };
 
     linkedIn = () => {
-        window.location.href = "https://www.linkedin.com/in/amarshanand/";
+        window.open('https://www.linkedin.com/in/amarshanand/', '_blank');
         this.setState(...this.state, {
             showContact: false
         });
