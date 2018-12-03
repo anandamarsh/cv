@@ -19,7 +19,7 @@ const styles = {
         flexGrow: 1,
     },
     iconRight: {
-        right:'-0.5em'
+        right: '-0.5em'
     }
 };
 
@@ -38,13 +38,13 @@ class TopNav extends React.Component {
                             {CV.name}
                         </Typography>
                         <IconButton className={classes.iconRight} aria-haspopup="true" color="inherit"
-                                    onClick={(e)=>this.setState(...this.state, {anchorEl: e.currentTarget, showPrintMenu: true})} >
+                            onClick={(e) => this.setState(...this.state, { anchorEl: e.currentTarget, showPrintMenu: true })} >
                             <Print />
                         </IconButton>
                     </Toolbar>
                 </AppBar>
                 <PrintMenu showPrintMenu={this.state.showPrintMenu} anchorEl={this.state.anchorEl}
-                           onClose={()=>this.setState(...this.state, {anchorEl: null, showPrintMenu: false})}/>
+                    onClose={() => this.setState(...this.state, { anchorEl: null, showPrintMenu: false })} />
             </div>
         );
     }

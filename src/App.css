@@ -18,7 +18,8 @@ a {
     text-decoration: none;
 }
 
-a:hover, .openLink:hover {
+a:hover,
+.openLink:hover {
     color: rgb(225, 0, 80);
     text-decoration: underline;
 }
@@ -32,6 +33,9 @@ mark {
     color: #e6147e;
     padding: 3px 6px;
     border-radius: 6px;
+}
+div[class*="MuiExpansionPanelSummary-content-"] div[class*="BodyPart-heading-"] {
+    flex-basis: 34%;
 }
 
 .blocks div[class*="MuiExpansionPanel-root-"] {
@@ -50,13 +54,9 @@ mark {
     min-width: 100%;
 }
 
-.Technologies, .collapsed, .blocks {
-    pointer-events:none
-}
-
-/* optimizations for printing */
-
-.printing * {
+.Technologies,
+.collapsed,
+/* optimizations for printing */ .printing * {
     font: 12px arial, sans-serif;
     line-height: 1.5em !important;
 }
@@ -201,7 +201,7 @@ mark {
 .printing .contact {
     position: absolute;
     top: 1.5em;
-    right: 1.5em
+    right: 1.5em;
 }
 .printing .contact div {
     font-size: 0.8em;
@@ -214,12 +214,5 @@ mark {
     text-align: center;
     margin-top: 4em;
     letter-spacing: 1.5px;
-    bottom: 0
+    bottom: 0;
 }
-
-
-
-
-
-
-
