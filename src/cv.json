@@ -1,203 +1,188 @@
 {
-  "name": "Amarsh Anand",
-  "contact": {
-    "mobile": "+61.468.314.826",
-    "email": "amarsh.anand@gmail.com",
-    "skype": "anand_amarsh",
-    "linkedin": "https://www.linkedin.com/in/amarshanand/"
-  },
-  "photo": "/photo.png",
-  "body": [
-    {
-      "title": "About Me",
-      "sections": [
-        {
-          "title": "Introduction",
-          "fullText": "<p>Born in a family of Engineers and Academics, I got passionate about computers in middle school. I started my BE in Electrical Engg at <a target='_blank' href='https://www.bitmesra.ac.in/'>BIT Mesra, Ranchi</a>, and transferred to BE Computer Engg at <a target='_blank' href='https://www.engineering.unsw.edu.au/computer-science-engineering/'>UNSW, Sydney</a>. After working for a few years at IBM, I returned back to <a target='_blank' href='https://www.engineering.unsw.edu.au/computer-science-engineering/'>UNSW, Sydney</a> to pursue my Phd in Mobile Computing.</p><p>Half way through my doctorate, my research ideas took me back to India, where I was introduced to <a target='_blank' href='https://www.intellectdesign.com/about-us/bod-arun.asp'>Arun Jain</a> through <a target='_blank' href='https://www.linkedin.com/in/yandlay'>Yogesh Andlay</a>.  This resulted in mine starting <a target='_blank' href='https://www.intellectdesign.com/'>Polaris’s Mobile Center-of-excellence</a> (called OnDaMo) in Chennai. I ran the unit for the following three years, after which, I returned to Australia for a short while.</p><p>Impressed by China’s economic growth, I then relocated to Shanghai, where I got an opportunity to open <a target='_blank' href='https://www.virtusa.com/'>Polaris China Development Center</a> as their Delivery Head. I later moved to Product Sales, and was promoted to be the Country Head for China.</p><p>After Polaris’s sale to Virtusa, I returned back to Australia to be the CTO for a NYC / Sydney based startup called Shodogg (now <a target='_blank' href='http://mashinmusic.com/'>Mash Music</a>). Within an year, I helped Shodogg create their flagship product MyMedia, and outsource the work to Vietnam.</p><p>I then returned to Shanghai to start my own EdTech startup, <a target='_blank' href='https://bilitutor.herokuapp.com/'>BiliTutor</a>. I built the entire product suite from scratch with a small team, and got it piloted in some Chinese and Indian universities. BiliTutor won the <a target='_blank' href='https://www.jobsfornsw.com.au/our-products/minimum-viable-product'>Australia Govt’s Innovation Grant</a>, which brought me back to Sydney. After selling my stake for BiliTutor, I took up a job as a Blockchain/Cryptocurrency programmer / TechLead at <a target='_blank' href='http://www.houstonkemp.com/'>Houston Kemp, Sydney</a>.</p>",
-          "summary": "I am a passionate technologist with a strong sense of business and entrepreneurship. My 18 years long journey from an Engineer to CTO has taught me the importance of teamwork and constant learning. Living and doing Business in Australia and China has made me appreciate the intricacies involved in cross-cultural business. I have delivered projects over U$5m, have managed sales pipeline over U$10m, and have raised seed investment of over U$5m. I have handled multicultural teams of over 50 engineers and designers. My startups have been funded by eminent Investors in India and China. I hold a BS/MS in Computer Science from University of New South Wales, Sydney.<br>I have recently finished a Blockchain related project with ACIC (Australia's FBI), and am looking at opportunities globally for my next endeavour.",
-          "xvideo": "https://vimeo.com/183188071"
-        },
-        {
-          "title": "My strengths",
-          "fullText": "<p><u>Starting things from scratch</u><br/>Through my experience of starting two software companies, raising a team to build the product, and opening a new Delivery center for Polaris in China, I have trained myself in dealing with the ambiguity of starting something afresh.</p><p><u>Building robust innovative software solutions</u><br/>From creating a compiler for weak Mobile devices to creating Blockchain solutions for tracking Terrorism, I have learnt the power of software and innovation. I am of the belief that software defines business processes, and good processes are the ones that run good businesses.</p><p><u>Business and relationships across cultures</u><br/>My friends, family and colleagues are spread across India, Australia and China. I have exposed myself to many cultures during my twenty years of stay in Australia. Having ran a company in China and having half of my family from China makes me deeply involved with the Chinese business community.</p><p><u>Leadership and Mentoring</u><br/>Over the years, I have managed to train young Software Engineers and Sales professionals on the art of building and selling software. I thoroughly enjoyed lecturing Software Engineering at UNSW in my younger years, and have been actively involved with talking about Blockchain and other technologies in local events in Sydney and Shanghai.</p><p><u>Public speaking and TV appearances</u><br/>I have been a champion Toastmaster in the past, and have developed my Public Speaking skills by practicing pitching my idea to investors. I was a regular speaker at NDTV's Technology programs when I was running my startup in India, and was deeply involved with organising startup activities in Delhi.</p>",
-          "summary": "<ul><li>Starting things from scratch</li><li>Building robust innovative software solutions</li><li>Business and relationships across cultures</li><li>Leadership and Mentoring</li><li>Public speaking and TV appearances</li></ul>"
-        }
-      ]
+    "name": "Amarsh Anand",
+    "contact": {
+        "mobile": "+61.468.314.826",
+        "email": "amarsh.anand@gmail.com",
+        "skype": "anand_amarsh",
+        "linkedin": "https://www.linkedin.com/in/amarshanand/"
     },
-    {
-      "title": "Employment",
-      "sections": [
+    "photo": "/photo.png",
+    "body": [
         {
-          "location": "australia",
-          "organization": "Houston Kemp",
-          "url": "http://www.houstonkemp.com",
-          "role": "Blockchain Architect",
-          "period": [2017,2018],
-          "fullText": "<p><u>About the Project</u><br/><a target='_blank' href='https://www.acic.gov.au/'>ACIC</a> and <a target='_blank' href='http://www.austrac.gov.au/'>AUSTRAC</a> spend billions each year in conducting investigations regarding Terrorism, Cross-Border Drug Trafficking etc. The report produced at the end of such investigation (called as Information Product) is sold to partner agencies like FBI and CIA. Once sold, the Information Product can be altered, re-sold further, etc, which is quite undesirable for the Australian Govt. Also, unable to trace-back the origin of an investigation to an Information Product produced by <a target='_blank' href='https://www.acic.gov.au/'>ACIC</a> / <a target='_blank' href='http://www.austrac.gov.au/'>AUSTRAC</a> robs these agencies of the credit and reward-sharing in the crackdown.<br>To solve the problem, <a target='_blank' href='https://www.business.gov.au/assistance/business-research-and-innovation-initiative'>BRII</a> had issued <a target='_blank' href='https://www.business.gov.au/Assistance/Business-Research-and-Innovation-Initiative/Proof-of-concept-grant-recipients'>$1m grant to Houston Kemp</a> to develop a Blockchain based solution (<a target='_blank' href='https://www.reuters.com/article/us-tech-blockchain-security/for-security-agencies-blockchain-goes-from-suspect-to-potential-solution-idUSKBN1DX01A'>BRII million dollar challenge</a>).</p><p><u>My role in the project</u><br/>I was involved in producing the Architectural Design for the product, and then, leading a small team to build and install the messaging component of the product. I was deeply involved in all technical and business decisions taken by the team.</p><p><u>Learnings</u><br/>I got introduced to the internal function of Intelligence Agencies like <a target='_blank' href='https://www.acic.gov.au/'>ACIC</a> and FBI, and also understood the nuances involved in investigating International Terrorism, Drug Trafficking, etc. On technology front, I got deep insights into the Blockchain and Cryptocurrency world.</p>",
-          "summary": "<ul><li><a target='_blank' href='https://www.business.gov.au/assistance/business-research-and-innovation-initiative'>BRII</a> funded project towards <a target='_blank' href='https://www.business.gov.au/Assistance/Business-Research-and-Innovation-Initiative/Proof-of-concept-grant-recipients'>$1m grant to Houston Kemp</a></li><li>Blockchain based solution to track Terrorism and Drug Trafficking</li><li>Involved as an Architect and TechLead</li></ul>",
-          "techStack": ["ethereum","react","node","aws"]
+            "title": "About Me",
+            "type": "expandable",
+            "sections": [
+                {
+                    "title": "Introduction",
+                    "fullText": "<p>Born in a family of Engineers and Academics, I got passionate about computers in middle school. I started my BE in Electrical Engg at <a target='_blank' href='https://www.bitmesra.ac.in/'>BIT Mesra, Ranchi</a>, and transferred to BE Computer Engg at <a target='_blank' href='https://www.engineering.unsw.edu.au/computer-science-engineering/'>UNSW, Sydney</a>. After working for a few years at IBM, I returned back to <a target='_blank' href='https://www.engineering.unsw.edu.au/computer-science-engineering/'>UNSW, Sydney</a> to pursue my Phd in Mobile Computing.</p><p>Half way through my doctorate, my research ideas took me back to India, where I was introduced to <a target='_blank' href='https://www.intellectdesign.com/about-us/bod-arun.asp'>Arun Jain</a> through <a target='_blank' href='https://www.linkedin.com/in/yandlay'>Yogesh Andlay</a>.  This resulted in mine starting <a target='_blank' href='https://www.intellectdesign.com/'>Polaris’s Mobile Center-of-excellence</a> (called OnDaMo) in Chennai. I ran the unit for the following three years, after which, I returned to Australia for a short while.</p><p>Impressed by China’s economic growth, I then relocated to Shanghai, where I got an opportunity to open <a target='_blank' href='https://www.virtusa.com/'>Polaris China Development Center</a> as their Delivery Head. I later moved to Product Sales, and was promoted to be the Country Head for China.</p><p>After Polaris’s sale to Virtusa, I returned back to Australia to be the CTO for a NYC / Sydney based startup called Shodogg (now <a target='_blank' href='http://mashinmusic.com/'>Mash Music</a>). Within an year, I helped Shodogg create their flagship product MyMedia, and outsource the work to Vietnam.</p><p>I then returned to Shanghai to start my own EdTech startup, <a target='_blank' href='https://bilitutor.herokuapp.com/'>BiliTutor</a>. I built the entire product suite from scratch with a small team, and got it piloted in some Chinese and Indian universities. BiliTutor won the <a target='_blank' href='https://www.jobsfornsw.com.au/our-products/minimum-viable-product'>Australia Govt’s Innovation Grant</a>, which brought me back to Sydney. After selling my stake for BiliTutor, I took up a job as a Blockchain/Cryptocurrency programmer / TechLead at <a target='_blank' href='http://www.houstonkemp.com/'>Houston Kemp, Sydney</a>.</p>",
+                    "summary": "I am a passionate technologist with a strong sense of business and entrepreneurship. My 18 years long journey from an Engineer to CTO has taught me the importance of teamwork and constant learning. Living and doing Business in Australia and China has made me appreciate the intricacies involved in cross-cultural business. I have delivered projects over U$5m, have managed sales pipeline over U$10m, and have raised seed investment of over U$5m. I have handled multicultural teams of over 50 engineers and designers. My startups have been funded by eminent Investors in India and China. I hold a BS/MS in Computer Science from University of New South Wales, Sydney.<br>I have recently finished a Blockchain related project with ACIC (Australia's FBI), and am looking at opportunities globally for my next endeavour.",
+                    "video": "https://vimeo.com/183188071"
+                },
+                {
+                    "title": "My strengths",
+                    "fullText": "<p><u>Starting things from scratch</u><br/>Through my experience of starting two software companies, raising a team to build the product, and opening a new Delivery center for Polaris in China, I have trained myself in dealing with the ambiguity of starting something afresh.</p><p><u>Building robust innovative software solutions</u><br/>From creating a compiler for weak Mobile devices to creating Blockchain solutions for tracking Terrorism, I have learnt the power of software and innovation. I am of the belief that software defines business processes, and good processes are the ones that run good businesses.</p><p><u>Cross cultural relationships</u><br/>My friends, family and colleagues are spread across India, Australia and China. I have exposed myself to many cultures during my twenty years of stay in Australia. Having ran a company in China and having half of my family from China makes me deeply involved with the Chinese business community.</p><p><u>Leadership and Mentoring</u><br/>Over the years, I have managed to train young Software Engineers and Sales professionals on the art of building and selling software. I thoroughly enjoyed lecturing Software Engineering at UNSW in my younger years, and have been actively involved with talking about Blockchain and other technologies in local events in Sydney and Shanghai.</p><p><u>Public speaking and TV appearances</u><br/>I have been a champion Toastmaster in the past, and have developed my Public Speaking skills by practicing pitching my idea to investors. I was a regular speaker at NDTV's Technology programs when I was running my startup in India, and was deeply involved with organising startup activities in Delhi.</p>",
+                    "summary": "<ul><table style='width:100%'><tr><td><li>Starting things from scratch</li></td><td><li>Building robust innovative software solutions</li></td></tr><tr><td><li>Cross cultural relationships</li></td><td><li>Leadership and Mentoring</li></td></tr></table></ul>"
+                }
+            ]
         },
         {
-          "location": "china",
-          "organization": "BiliTutor",
-          "url": "http://www.bilitutor.com",
-          "role": "CTO / Co-founder",
-          "period": [2014,2017],
-          "fullText": "<p><u>Concept</u><br>Language learning Apps like <a target='_blank' href='https://www.duolingo.com/'>DuoLingo</a> have pioneered the field of Mobile based language learning. These Apps, however, come with their own fixed content. This makes them unsuitable for a school environment, which normally have their own curriculum to follow. BiliTutor solves the problem by creating an empty mobile/web App, Bilingual Editor and a LMS.</p><p><u>Execution</u><br>I moved to Shanghai in 2016 to start <a target='_blank' href='http://www.bilitutor.com'>BiliTutor</a> with my Chinese Co-founder. We were able to draw over U$5m in Angel funding from some of the top Edtech investors in the region, and were able to raise a small team of 30 developers and language content creators. The project became a big success on WeChat (China’s WhatsApp), and was also piloted at some major universities in China. I also took the project to Delhi, where I was able to pilot it at <a target='_blank' href='https://www.jnu.ac.in/'>JNU</a> and <a target='_blank' href='http://www.amity.edu/'>Amity University</a>. BiliTutor was featured amongst selected startups in the <a target='_blank' href='https://yourstory.com/2016/03/language-technology-startups-bhasha/'>Indian LanguageTech space at Bhasha 2016</a>. I also took the project to Sydney, where BiliTutor secured a place in <a target='_blank' href='http://more.masschallenge.org/australia'>BMC Accelerator Program</a>, and was awarded the <a target='_blank' href='https://www.jobsfornsw.com.au/our-products/minimum-viable-product'>NSW Govt MVP Grant 2017</a>.<br>In late 2017, after stabilizing the technology and the team in Shanghai, I sold my stake to my Chinese co-founder and moved back to Sydney.</p><p><u>Learnings</u><br>BiliTutor introduced me to the challenges faced by the AI-based Language Learning paradigm. It introduced me to Computational Linguistics, and made me appreciate the complexities of NLP and other Machine Learning based human-assisted education. It also gave me a deep insight into the burgeoning startup ecosystem, and into the complexities of running a business across India-China-Australia. I also had a first-hand experience of dealing with Chinese partnerships, which deepened my appreciation of Chinese personal and business values.</p>",
-          "summary": "<ul><li>Language startup, based out of Shanghai, with a Chinese co-founder</li><li>Raised excess of U$5m in seed funding from EdTech investors in China</li><li>CTO / Co-founder. AI based Computational Lingusitics. Exposure to Chinese Business ecosystem</li><li><mark>Highlight: Selected for <a target='_blank' href='http://more.masschallenge.org/australia'>BMC Accelerator Program</a> and received <a target='_blank' href='https://www.jobsfornsw.com.au/our-products/minimum-viable-product'>NSW Govt MVP Grant 2017</a>.</li></ul></mark></ul>",
-          "techStack": ["angular","mongo","node","aws"]
+            "title": "Employment",
+            "type": "expandable",
+            "sections": [
+                {
+                    "location": "australia",
+                    "organization": "Houston Kemp",
+                    "url": "http://www.houstonkemp.com",
+                    "role": "Blockchain Architect",
+                    "period": [ 2017, 2018 ],
+                    "fullText": "<p><u>About the Project</u><br/><a target='_blank' href='https://www.acic.gov.au/'>ACIC</a> and <a target='_blank' href='http://www.austrac.gov.au/'>AUSTRAC</a> spend billions each year in conducting investigations regarding Terrorism, Cross-Border Drug Trafficking etc. The report produced at the end of such investigation (called as Information Product) is sold to partner agencies like FBI and CIA. Once sold, the Information Product can be altered, re-sold further, etc, which is quite undesirable for the Australian Govt. Also, unable to trace-back the origin of an investigation to an Information Product produced by <a target='_blank' href='https://www.acic.gov.au/'>ACIC</a> / <a target='_blank' href='http://www.austrac.gov.au/'>AUSTRAC</a> robs these agencies of the credit and reward-sharing in the crackdown.<br>To solve the problem, <a target='_blank' href='https://www.business.gov.au/assistance/business-research-and-innovation-initiative'>BRII</a> had issued <a target='_blank' href='https://www.business.gov.au/Assistance/Business-Research-and-Innovation-Initiative/Proof-of-concept-grant-recipients'>$1m grant to Houston Kemp</a> to develop a Blockchain based solution (<a target='_blank' href='https://www.reuters.com/article/us-tech-blockchain-security/for-security-agencies-blockchain-goes-from-suspect-to-potential-solution-idUSKBN1DX01A'>BRII million dollar challenge</a>).</p><p><u>My role in the project</u><br/>I was involved in producing the Architectural Design for the product, and then, leading a small team to build and install the messaging component of the product. I was deeply involved in all technical and business decisions taken by the team.</p><p><u>Learnings</u><br/>I got introduced to the internal function of Intelligence Agencies like <a target='_blank' href='https://www.acic.gov.au/'>ACIC</a> and FBI, and also understood the nuances involved in investigating International Terrorism, Drug Trafficking, etc. On technology front, I got deep insights into the Blockchain and Cryptocurrency world.</p>",
+                    "summary": "<ul><li><a target='_blank' href='https://www.business.gov.au/assistance/business-research-and-innovation-initiative'>BRII</a> funded project towards <a target='_blank' href='https://www.business.gov.au/Assistance/Business-Research-and-Innovation-Initiative/Proof-of-concept-grant-recipients'>$1m grant to Houston Kemp</a></li><li>Blockchain based solution to track Terrorism and Drug Trafficking</li><li>Involved as an Architect and TechLead</li></ul>",
+                    "techStack": [ "ethereum", "react", "node", "aws" ]
+                },
+                {
+                    "location": "china",
+                    "organization": "BiliTutor",
+                    "url": "http://www.bilitutor.com",
+                    "role": "CTO / Co-founder",
+                    "period": [ 2014, 2017 ],
+                    "fullText": "<p><u>Concept</u><br>Language learning Apps like <a target='_blank' href='https://www.duolingo.com/'>DuoLingo</a> have pioneered the field of Mobile based language learning. These Apps, however, come with their own fixed content. This makes them unsuitable for a school environment, which normally have their own curriculum to follow. BiliTutor solves the problem by creating an empty mobile/web App, Bilingual Editor and a LMS.</p><p><u>Execution</u><br>I moved to Shanghai in 2016 to start <a target='_blank' href='http://www.bilitutor.com'>BiliTutor</a> with my Chinese Co-founder. We were able to draw over U$5m in Angel funding from some of the top Edtech investors in the region, and were able to raise a small team of 30 developers and language content creators. The project became a big success on WeChat (China’s WhatsApp), and was also piloted at some major universities in China. I also took the project to Delhi, where I was able to pilot it at <a target='_blank' href='https://www.jnu.ac.in/'>JNU</a> and <a target='_blank' href='http://www.amity.edu/'>Amity University</a>. BiliTutor was featured amongst selected startups in the <a target='_blank' href='https://yourstory.com/2016/03/language-technology-startups-bhasha/'>Indian LanguageTech space at Bhasha 2016</a>. I also took the project to Sydney, where BiliTutor secured a place in <a target='_blank' href='http://more.masschallenge.org/australia'>BMC Accelerator Program</a>, and was awarded the <a target='_blank' href='https://www.jobsfornsw.com.au/our-products/minimum-viable-product'>NSW Govt MVP Grant 2017</a>.<br>In late 2017, after stabilizing the technology and the team in Shanghai, I sold my stake to my Chinese co-founder and moved back to Sydney.</p><p><u>Learnings</u><br>BiliTutor introduced me to the challenges faced by the AI-based Language Learning paradigm. It introduced me to Computational Linguistics, and made me appreciate the complexities of NLP and other Machine Learning based human-assisted education. It also gave me a deep insight into the burgeoning startup ecosystem, and into the complexities of running a business across India-China-Australia. I also had a first-hand experience of dealing with Chinese partnerships, which deepened my appreciation of Chinese personal and business values.</p>",
+                    "summary": "<ul><li>Language startup, based out of Shanghai, with a Chinese co-founder</li><li>Raised excess of U$5m in seed funding from EdTech investors in China</li><li>CTO / Co-founder. AI based Computational Lingusitics. Exposure to Chinese Business ecosystem</li><li><mark>Highlight: Selected for <a target='_blank' href='http://more.masschallenge.org/australia'>BMC Accelerator Program</a> and received <a target='_blank' href='https://www.jobsfornsw.com.au/our-products/minimum-viable-product'>NSW Govt MVP Grant 2017</a>.</li></ul></mark></ul>",
+                    "techStack": [ "angular", "mongo", "node", "aws" ]
+                },
+                {
+                    "location": "australia",
+                    "organization": "Shodogg [Mash]",
+                    "url": "https://mashlove.us",
+                    "role": "Technical Director",
+                    "period": [ 2013, 2014 ],
+                    "fullText": "<p><u>About the Project</u><br>Shodogg (rebranded as <a target='_blank' href='https://mashlove.us/'>Mash Music</a>) is a NY based startup, which had pioneered screen sharing solutions before Google Chromecast. One of their Co-Founders, <a target='_blank' href='https://www.linkedin.com/in/reff-aka-geoff-sykes-96482612/'>Geoff Sykes</a>, created a team in Sydney to apply the technology to the Hospitality industry. This required creating new  Mobile and SmartTV Apps, and also building upon the original cloud-based screen-sharing product.</p><p><u>My role in the project</u><br>I was the CTO and the first member of the technical team in Sydney. I recruited a team of ten developers and designers, and created a new suite of products for SmartTV / Mobile pairing. I was deeply involved with managing pre-sales, installation and post-sales support of the product. I was also instrumental in preparing the company for outsourcing, finding the right outsourcing partner, and eventually seeing through the outsourcing. I remain as an advisor to the CEO, who has since then, moved the company to SFO. I delivered the entire product suite in less than U$2m and 10 headcount over a period of 14 months.</p><p><u>Learnings</u><br>I had a chance of transforming an established product in a new market-vertical. Raising a multicultural team of developers in Sydney and seeing the projects from inception to conclusion was a challenging but rewarding experience. Getting exposed to the Hospitality and Video streaming industry was a new experience, and so was outsourcing a project to Vietnam.</p>",
+                    "summary": "<ul><li>NYC/Sydney based startup. Mobile / SmartTV based products</li><li>Raised a team of 10 engineers and designers</li><li>Built the product under U$2m and outsourced it to Vietnam</li><ul>",
+                    "techStack": [ "ios", "android", "j2ee", "html5" ]
+                },
+                {
+                    "location": "china",
+                    "organization": "Polaris [Virtusa]",
+                    "url": "https://www.virtusa.com/",
+                    "role": "Delivery Head, China",
+                    "period": [ 2011, 2014 ],
+                    "fullText": "<p><u>About the Project</u><br>As many banks in Singapore/Malaysia moved their IT to Shenzhen in China, Polaris (now <a target='_blank' href='https://www.virtusa.com/'>Polaris Virtusa</a>) was in need to start a China office to service their BFSI customer base. I relocated from Sydney to Shanghai to start a delivery center for Polaris. The Delivery Center serviced Polaris’s Chinese and Japanese customers, and also acted a localization center for Polaris’s product suite (now called <a target='_blank' href='https://www.intellectdesign.com/'>Intellect</a>).</p><p><u>My role in the project</u><br>I relocated from Sydney to Shanghai to head the Delivery Center. In partnership with <a target='_blank' href='http://www.pccw.com/'>PCCW</a>, I delivered projects in excess of U$5m, and was later responsible for managing a U$10m sales pipeline. I acted as the Account Manager for China and HK accounts, and was working closely with the APAC head office in Singapore. I was also actively involved in a potential acquisition of a Chinese software company.</p><p><u>Learnings</u><br>The greatest learning was doing business with China. Managing a team of Chinese and Indian professionals and doing stakeholder management in Chennai and Shanghai deepened my understanding of the Chinese and Indian business culture. I was also deeply involved with the Indian Consulate in Shanghai and Beijing, and represented the Indian IT business community through <a target='_blank' href='https://www.cii.in/'>CII</a> and <a target='_blank' href='http://ficci.in/'>FICCI</a>. Being a part of the Chinese startup ecosystem helped me start my next venture, BiliTutor. Having half of my family as Chinese makes me understand the Chinese value system, and helps me appreciate the cultural similarities between India and China.</p>",
+                    "summary": "<ul><li>Delivery Head and then Country Head for Polaris Shanghai</li><li>Project delivery in excess of U$5m. Sales pipeline of U$10m with <a target='_blank' href='http://www.pccw.com/'>PCCW</a></li><li>Deep involvement with Chinese Business community and Indian IT footprint in Shanghai</li><li><mark>Highlight: Presented the Polaris China Vision to Mayor of Shanghai, Mr Han Zheng.</mark></li></ul>",
+                    "techStack": [ "polaris", "boc", "pccw" ]
+                },
+                {
+                    "location": "india",
+                    "organization": "Polaris [Intellect]",
+                    "url": "https://www.intellectdesign.com/",
+                    "role": "Director, Mobile Banking",
+                    "period": [ 2007, 2010 ],
+                    "fullText": "<p><u>Concept</u><br>In 2006, I finished my MS thesis on a compiler for embedded devices. Back in the time, Mobile device market was heavily fragmented by Nokia, Motorola, Samsung, etc. Whie it was possible to write J2ME midltes (we call them Apps now), because of a large number of target devices, rigorous testing and regular maintenance was required, which made the production of such Apps quite expensive. I came up with a new language called OML, and a compiler for it, that would provide a uniform framework for creating J2ME midlets. The framework was similar to Kony, OneApp, Appcelerator, etc</p><p><u>Execution</u><br>I was introduced to Polaris (now <a target='_blank' href='https://www.intellectdesign.com/'>Intellect</a>’s) founder, <a target='_blank' href='https://www.intellectdesign.com/about-us/bod-arun.asp'>Arun Jain</a>, through Nucleus Software’s former MD, <a target='_blank' href='https://www.linkedin.com/in/yandlay'>Yogesh Andlay</a>. Arun invited me to Chennai to start Polaris’s Mobile Center-of-Excellence. In a small team of about 20 engineers, I was able to create various Mobile banking applications, including Internet Banking, Stock Watch, Mobile Collections, etc. We got some good success with Citi India, BIDV Vietnam, Qatar National Bank, etc.<br>In 2009, Google launched Android, which made it clear that Nokia and other players would eventually be wiped out. My team was merged with Intellect, and I handed over all the IP to Polaris and returned back to Sydney.<p><u>Learnings</u><br>As a young engineer, I was introduced to the glamorous but challenging world of entrepreneurship. Being mentored directly by Arun Jain and Yogesh Andlay was the greatest learning experience for me. I was deeply involved with <a target='_blank' href='http://ficci.in/'>FICCI</a> and <a target='_blank' href='https://tie.org/'>TiE</a>, and was able to learn a lot about the business of selling software. Managing a team of engineers, both younger and older to me, was a great learning experience at an early age. I was also able to build my public speaking and PR skills while I co-hosted technology awareness programs on NDTV, and was involved in organizing startup conferences and events in Delhi. I was able to meet the then PM, Sh Manmohan Singh, alongwith British PM Gordon Brown and Richard Branson, while I was representing young Indian Entrepreneurs to the UK delegation. Those early years of my life transformed me from an engineer to an entrepreneur, and turned me from a machine enthusiast to a people lover.</p>",
+                    "summary": "<ul><li>Started Mobile Center-Of-Excellence under direct guidance from <a target='_blank' href='https://www.intellectdesign.com/about-us/bod-arun.asp'>Arun Jain</a></li><li>Raised a team of 20 engineers and consultants to produce Mobile Banking for Citi India, QNB, BIDV Vietnam, etc</li><li>Deep involvement with <a target='_blank' href='http://ficci.in/'>FICCI</a> and <a target='_blank' href='https://tie.org/'>TiE</a> and startup ecosystem</li><li><mark>Highlight: Presented OnDaMo and the Mobile App vision to Richard Branson.</mark></li></ul>",
+                    "techStack": [ "j2ee", "j2me", "mysql", "linux" ]
+                },
+                {
+                    "location": "australia",
+                    "organization": "Oracle",
+                    "url": "https://www.oracle.com/au/index.html",
+                    "role": "Project Engineer",
+                    "period": [ 2006, 2007 ],
+                    "fullText": "<p>Oracle Australia had recently acquired a Utility sector company called <a target='_blank' href='https://www.oracle.com/corporate/acquisitions/spl/index.html'>SPL World Group</a>. Their first product implementation in Australia was with <a target='_blank' herf='https://www.energyaustralia.com.au/'>Energy Australia</a>. I was the Project Engineer for this implementation. I underwent Product training in SPL's headquarter in Minneapolis, and was responsible for the customization and implementation of the product in Sydney. That was my introduction to Project Management and Stakeholder Management.</p>",
+                    "summary": "<ul><li>Oracle had acquired <a target='_blank' href='https://www.oracle.com/corporate/acquisitions/spl/index.html'>SPL World Group</a>, with their first Australian installation with <a target='_blank' herf='https://www.energyaustralia.com.au/'>Energy Australia</a></li><li>Product training in SPL's headquarter in Minneapolis</li><li>Responsible for the product customization and implementation and some project management</li></ul>",
+                    "techStack": [ "j2ee", "net", "oracle", "linux" ]
+                },
+                {
+                    "location": "australia",
+                    "organization": "IBM",
+                    "url": "http://www.ibm.com.au",
+                    "role": "Software Engineer",
+                    "period": [ 2002, 2004 ],
+                    "fullText": "<p>I was recruited for a Graduate position with IBM after my BE at UNSW. During a 2 year rotation period, I was moved between Developer roles (Java, Lotus Notes), Consultancy (Commbank) and Business Development roles. I was awarded the IBM Australia Innovation medal for a buiding a Unix Shell Scripting tool which save a huge amount of effort and money on a website migration project.<br>After the Grad program, I returned back to UNSW to commence my Phd in Computer Science.</p>",
+                    "summary": "<ul><li>Graduate position, after BE Computer Engg from UNSW</li><li>Rotation between Development, Consultancy and Business Development units</li><li>IBM Australia Innovation medal for 2003</li><ul>",
+                    "techStack": [ "j2ee", "db2", "lotusnotes", "linux" ]
+                }
+            ]
         },
         {
-          "location": "australia",
-          "organization": "Shodogg [Mash]",
-          "url": "https://mashlove.us",
-          "role": "Technical Director",
-          "period": [2013,2014],
-          "fullText": "<p><u>About the Project</u><br>Shodogg (rebranded as <a target='_blank' href='https://mashlove.us/'>Mash Music</a>) is a NY based startup, which had pioneered screen sharing solutions before Google Chromecast. One of their Co-Founders, <a target='_blank' href='https://www.linkedin.com/in/reff-aka-geoff-sykes-96482612/'>Geoff Sykes</a>, created a team in Sydney to apply the technology to the Hospitality industry. This required creating new  Mobile and SmartTV Apps, and also building upon the original cloud-based screen-sharing product.</p><p><u>My role in the project</u><br>I was the CTO and the first member of the technical team in Sydney. I recruited a team of ten developers and designers, and created a new suite of products for SmartTV / Mobile pairing. I was deeply involved with managing pre-sales, installation and post-sales support of the product. I was also instrumental in preparing the company for outsourcing, finding the right outsourcing partner, and eventually seeing through the outsourcing. I remain as an advisor to the CEO, who has since then, moved the company to SFO. I delivered the entire product suite in less than U$2m and 10 headcount over a period of 14 months.</p><p><u>Learnings</u><br>I had a chance of transforming an established product in a new market-vertical. Raising a multicultural team of developers in Sydney and seeing the projects from inception to conclusion was a challenging but rewarding experience. Getting exposed to the Hospitality and Video streaming industry was a new experience, and so was outsourcing a project to Vietnam.</p>",
-          "summary": "<ul><li>NYC/Sydney based startup. Mobile / SmartTV based products</li><li>Raised a team of 10 engineers and designers</li><li>Built the product under U$2m and outsourced it to Vietnam</li><ul>",
-          "techStack": ["ios","android","j2ee","html5"]
+            "title": "Technologies",
+            "type": "table",
+            "sections": [
+                {
+                    "title": "Blockchain",
+                    "description": "Hyperledger Fabric, Ethereum, SmartContracts, Web3, Remix, Geth, TestRPC, Solidity, Go, IPFS"
+                },
+                {
+                    "title": "Frontend",
+                    "description": "React, Redux, Mobx, GraphQL, MaterialUI, Angular 1.x, JQuery, Vanilla JS, HTML5, CSS3, SAAS/LESS"
+                },
+                {
+                    "title": "Backend",
+                    "description": "Node, ES6, Python, Apigee, Java/J2EE, C# .NET (basic), AWS Lambda / Cognito"
+                },
+                {
+                    "title": "Mobile",
+                    "description": "Objective C, Swift (basic), React Native (basic), Android (basic), J2ME, Symbian"
+                },
+                {
+                    "title": "Databases",
+                    "description": "MongoDB, DynamoDB, MySql, PostgreSql"
+                },
+                {
+                    "title": "Testing",
+                    "description": "TDD / BDD, Selenium, Jasmine, Mocha, Postman, githooks, CI/CD"
+                },
+                {
+                    "title": "Methodologies",
+                    "description": "Agile, Scrum / Kanban, Sprints, Product Owner, Scrum Master, Jira, Confluence"
+                }
+            ]
         },
         {
-          "location": "china",
-          "organization": "Polaris [Virtusa]",
-          "url": "https://www.virtusa.com/",
-          "role": "Delivery Head, China",
-          "period": [2011,2014],
-          "fullText": "<p><u>About the Project</u><br>As many banks in Singapore/Malaysia moved their IT to Shenzhen in China, Polaris (now <a target='_blank' href='https://www.virtusa.com/'>Polaris Virtusa</a>) was in need to start a China office to service their BFSI customer base. I relocated from Sydney to Shanghai to start a delivery center for Polaris. The Delivery Center serviced Polaris’s Chinese and Japanese customers, and also acted a localization center for Polaris’s product suite (now called <a target='_blank' href='https://www.intellectdesign.com/'>Intellect</a>).</p><p><u>My role in the project</u><br>I relocated from Sydney to Shanghai to head the Delivery Center. In partnership with <a target='_blank' href='http://www.pccw.com/'>PCCW</a>, I delivered projects in excess of U$5m, and was later responsible for managing a U$10m sales pipeline. I acted as the Account Manager for China and HK accounts, and was working closely with the APAC head office in Singapore. I was also actively involved in a potential acquisition of a Chinese software company.</p><p><u>Learnings</u><br>The greatest learning was doing business with China. Managing a team of Chinese and Indian professionals and doing stakeholder management in Chennai and Shanghai deepened my understanding of the Chinese and Indian business culture. I was also deeply involved with the Indian Consulate in Shanghai and Beijing, and represented the Indian IT business community through <a target='_blank' href='https://www.cii.in/'>CII</a> and <a target='_blank' href='http://ficci.in/'>FICCI</a>. Being a part of the Chinese startup ecosystem helped me start my next venture, BiliTutor. Having half of my family as Chinese makes me understand the Chinese value system, and helps me appreciate the cultural similarities between India and China.</p>",
-          "summary": "<ul><li>Delivery Head and then Country Head for Polaris Shanghai</li><li>Project delivery in excess of U$5m. Sales pipeline of U$10m with <a target='_blank' href='http://www.pccw.com/'>PCCW</a></li><li>Deep involvement with Chinese Business community and Indian IT footprint in Shanghai</li><li><mark>Highlight: Presented the Polaris China Vision to Mayor of Shanghai, Mr Han Zheng.</mark></li></ul>",
-          "techStack": ["polaris","boc","pccw"]
+            "title": "Education",
+            "type": "table",
+            "sections": [
+                {
+                    "location": "australia",
+                    "organization": "University of New South Wales",
+                    "url": "https://www.engineering.unsw.edu.au/computer-science-engineering/",
+                    "role": "MS Computer Science",
+                    "period": [ 2005, 2006 ]
+                },
+                {
+                    "location": "australia",
+                    "organization": "University of New South Wales",
+                    "url": "https://www.engineering.unsw.edu.au/computer-science-engineering/",
+                    "role": "BE Computer Engineering",
+                    "period": [ 1999, 2001 ]
+                },
+                {
+                    "location": "india",
+                    "organization": "BIT Mesra, Ranchi",
+                    "url": "https://www.bitmesra.ac.in/",
+                    "role": "BTech Electrical Engineering (transferred to UNSW)",
+                    "period": [ 1997, 1999 ]
+                }
+            ]
         },
         {
-          "location": "india",
-          "organization": "Polaris [Intellect]",
-          "url": "https://www.intellectdesign.com/",
-          "role": "Director, Mobile Banking",
-          "period": [2007,2010],
-          "fullText": "<p><u>Concept</u><br>In 2006, I finished my MS thesis on a compiler for embedded devices. Back in the time, Mobile device market was heavily fragmented by Nokia, Motorola, Samsung, etc. Whie it was possible to write J2ME midltes (we call them Apps now), because of a large number of target devices, rigorous testing and regular maintenance was required, which made the production of such Apps quite expensive. I came up with a new language called OML, and a compiler for it, that would provide a uniform framework for creating J2ME midlets. The framework was similar to Kony, OneApp, Appcelerator, etc</p><p><u>Execution</u><br>I was introduced to Polaris (now <a target='_blank' href='https://www.intellectdesign.com/'>Intellect</a>’s) founder, <a target='_blank' href='https://www.intellectdesign.com/about-us/bod-arun.asp'>Arun Jain</a>, through Nucleus Software’s former MD, <a target='_blank' href='https://www.linkedin.com/in/yandlay'>Yogesh Andlay</a>. Arun invited me to Chennai to start Polaris’s Mobile Center-of-Excellence. In a small team of about 20 engineers, I was able to create various Mobile banking applications, including Internet Banking, Stock Watch, Mobile Collections, etc. We got some good success with Citi India, BIDV Vietnam, Qatar National Bank, etc.<br>In 2009, Google launched Android, which made it clear that Nokia and other players would eventually be wiped out. My team was merged with Intellect, and I handed over all the IP to Polaris and returned back to Sydney.<p><u>Learnings</u><br>As a young engineer, I was introduced to the glamorous but challenging world of entrepreneurship. Being mentored directly by Arun Jain and Yogesh Andlay was the greatest learning experience for me. I was deeply involved with <a target='_blank' href='http://ficci.in/'>FICCI</a> and <a target='_blank' href='https://tie.org/'>TiE</a>, and was able to learn a lot about the business of selling software. Managing a team of engineers, both younger and older to me, was a great learning experience at an early age. I was also able to build my public speaking and PR skills while I co-hosted technology awareness programs on NDTV, and was involved in organizing startup conferences and events in Delhi. I was able to meet the then PM, Sh Manmohan Singh, alongwith British PM Gordon Brown and Richard Branson, while I was representing young Indian Entrepreneurs to the UK delegation. Those early years of my life transformed me from an engineer to an entrepreneur, and turned me from a machine enthusiast to a people lover.</p>",
-          "summary": "<ul><li>Started Mobile Center-Of-Excellence under direct guidance from <a target='_blank' href='https://www.intellectdesign.com/about-us/bod-arun.asp'>Arun Jain</a></li><li>Raised a team of 20 engineers and consultants to produce Mobile Banking for Citi India, QNB, BIDV Vietnam, etc</li><li>Deep involvement with <a target='_blank' href='http://ficci.in/'>FICCI</a> and <a target='_blank' href='https://tie.org/'>TiE</a> and startup ecosystem</li><li><mark>Highlight: Presented OnDaMo and the Mobile App vision to Richard Branson.</mark></li></ul>",
-          "techStack": ["j2ee","j2me","mysql","linux"]
-        },
-        {
-          "location": "australia",
-          "organization": "Oracle",
-          "url": "https://www.oracle.com/au/index.html",
-          "role": "Project Engineer",
-          "period": [2006,2007],
-          "fullText": "<p>Oracle Australia had recently acquired a Utility sector company called <a target='_blank' href='https://www.oracle.com/corporate/acquisitions/spl/index.html'>SPL World Group</a>. Their first product implementation in Australia was with <a target='_blank' herf='https://www.energyaustralia.com.au/'>Energy Australia</a>. I was the Project Engineer for this implementation. I underwent Product training in SPL's headquarter in Minneapolis, and was responsible for the customization and implementation of the product in Sydney. That was my introduction to Project Management and Stakeholder Management.</p>",
-          "summary": "<ul><li>Oracle had acquired <a target='_blank' href='https://www.oracle.com/corporate/acquisitions/spl/index.html'>SPL World Group</a>, with their first Australian installation with <a target='_blank' herf='https://www.energyaustralia.com.au/'>Energy Australia</a></li><li>Product training in SPL's headquarter in Minneapolis</li><li>Responsible for the product customization and implementation and some project management</li></ul>",
-          "techStack": ["j2ee","net","oracle","linux"]
-        },
-        {
-          "location": "australia",
-          "organization": "IBM",
-          "url": "http://www.ibm.com.au",
-          "role": "Software Engineer",
-          "period": [2002,2004],
-          "fullText": "<p>I was recruited for a Graduate position with IBM after my BE at UNSW. During a 2 year rotation period, I was moved between Developer roles (Java, Lotus Notes), Consultancy (Commbank) and Business Development roles. I was awarded the IBM Australia Innovation medal for a buiding a Unix Shell Scripting tool which save a huge amount of effort and money on a website migration project.<br>After the Grad program, I returned back to UNSW to commence my Phd in Computer Science.</p>",
-          "summary": "<ul><li>Graduate position, after BE Computer Engg from UNSW</li><li>Rotation between Development, Consultancy and Business Development units</li><li>IBM Australia Innovation medal for 2003</li><ul>",
-          "techStack": ["j2ee","db2","lotusnotes","linux"]
+            "title": "Visa Status",
+            "type": "blocks",
+            "sections": [
+                {
+                    "location": "australia",
+                    "organization": "Australian Citizen"
+                },
+                {
+                    "location": "india",
+                    "organization": "Indian OCI"
+                },
+                {
+                    "location": "usa",
+                    "organization": "Eligible for US E3 Visa"
+                },
+                {
+                    "location": "china",
+                    "organization": "Chinese Resident"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "title": "Technologies",
-      "type": "collapsed",
-      "sections": [
-        {
-          "title": "Blockchain",
-          "description": "Hyperledger Fabric, Ethereum, SmartContracts, Web3, Remix, Geth, TestRPC, Solidity, Go, IPFS"
-        },
-        {
-          "title": "Frontend",
-          "description": "React, Redux, Mobx, GraphQL, MaterialUI, Angular 1.x, JQuery, Vanilla JS, HTML5, CSS3, SAAS/LESS"
-        },
-        {
-          "title": "Backend",
-          "description": "Node, ES6, Python, Apigee, Java/J2EE, C# .NET (basic), AWS Lambda / Cognito"
-        },
-        {
-          "title": "Mobile",
-          "description": "Objective C, Swift (basic), React Native (basic), Android (basic), J2ME, Symbian"
-        },
-        {
-          "title": "Databases",
-          "description": "MongoDB, DynamoDB, MySql, PostgreSql"
-        },
-        {
-          "title": "Testing",
-          "description": "TDD / BDD, Selenium, Jasmine, Mocha, Postman, githooks, CI/CD"
-        },
-        {
-          "title": "Methodologies",
-          "description": "Agile, Scrum / Kanban, Sprints, Product Owner, Scrum Master, Jira, Confluence"
-        }
-      ]
-    },
-    {
-      "title": "Education",
-      "type": "collapsed",
-      "sections": [
-        {
-          "location": "australia",
-          "organization": "University of New South Wales",
-          "url": "https://www.engineering.unsw.edu.au/computer-science-engineering/",
-          "role": "MS Computer Science",
-          "period": [2005,2006]
-        },
-        {
-          "location": "australia",
-          "organization": "University of New South Wales",
-          "url": "https://www.engineering.unsw.edu.au/computer-science-engineering/",
-          "role": "BE Computer Science",
-          "period": [1999,2001]
-        },
-        {
-          "location": "india",
-          "organization": "BIT Mesra, Ranchi",
-          "url": "https://www.bitmesra.ac.in/",
-          "role": "BE Computer Science (transferred to UNSW)",
-          "period": [1997,1999]
-        }
-      ]
-    },
-    {
-      "title": "Visa Status",
-      "type": "blocks",
-      "sections": [
-        {
-          "location": "australia",
-          "organization": "Australian Citizen"
-        },
-        {
-          "location": "india",
-          "organization": "Indian OCI"
-        },
-        {
-          "location": "usa",
-          "organization": "Eligible for US E3 Visa"
-        },
-        {
-          "location": "china",
-          "organization": "Chinese Resident"
-        }
-      ]
-    }
-  ]
+    ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

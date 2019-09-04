@@ -34,58 +34,29 @@ mark {
     padding: 3px 6px;
     border-radius: 6px;
 }
-div[class*="BodyPart-heading-"] {
+div[class*="MuiExpansionPanelSummary-content-"] div[class*="BodyPart-heading-"] {
     flex-basis: 34%;
 }
 
+.blocks div[class*="MuiExpansionPanel-root-"] {
+    display: inline-block;
+}
+.blocks p[class*="BodyPart-heading-"] {
+    min-width: 100%;
+}
+.blocks div[class*="MuiExpansionPanelSummary-expandIcon"] {
+    display: none;
+}
+.collapsed div[class*="MuiExpansionPanelSummary-expandIcon"] {
+    display: none;
+}
+.Technologies p[class*="BodyPart-heading-"] {
+    min-width: 100%;
+}
+
+.Technologies,
 .collapsed,
-/* tables */ .tabularRow {
-    padding: 1rem 1.5rem;
-    border-bottom: 1.25px solid #d8d8d8;
-}
-.tabular .tabularRow:last-child {
-    border: none;
-}
-.tabularRowSubheading {
-    font-size: 0.95rem !important;
-}
-.tabularRowTitle {
-    display: inline-block;
-    width: 9rem;
-}
-.tabularRowDescription {
-    display: inline-block;
-    color: rgba(0, 0, 0, 0.57);
-}
-.tabularRowFlag {
-    height: 1.8em;
-    width: auto;
-    margin-right: 1em;
-    float: left;
-    margin-top: -0.2em;
-}
-.tabularRowPeriod {
-    font-size: 0.8rem;
-    color: #e10050;
-    margin: 0 1.5rem 0 1rem;
-}
-.tabularRowInlineBlock {
-    display: inline-block;
-    width: 20%;
-    border: none;
-}
-.tabularRowRole {
-    margin-right: 1rem;
-    color: rgba(0, 0, 0, 0.57);
-}
-
-/* optimizations for printing */
-
-.printing {
-    padding: 0;
-}
-
-.printing * {
+/* optimizations for printing */ .printing * {
     font: 12px arial, sans-serif;
     line-height: 1.5em !important;
 }
@@ -104,44 +75,6 @@ div[class*="BodyPart-heading-"] {
 
 .printing a {
     color: inherit;
-}
-
-.printing .CVtitle {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.printing .expandIcon,
-.printing .expansionPanelTabs,
-.printing .topNav {
-    display: none;
-}
-
-.printing .Employment,
-.printing .Technologies {
-    margin-top: 0;
-}
-
-.printing .expansionPanelSummary {
-    min-height: 0 !important;
-    height: 0 !important;
-}
-
-.printing .tabularRow {
-    padding: 0.25rem 1.5rem;
-    border: none;
-}
-
-.printing .tabularRowTitle {
-    width: 7rem;
-}
-
-.printing .tabularRowInlineBlock {
-    width: auto;
-}
-
-.printing div[class*="BodyPart-root-"].Employment {
-    margin-top: 0;
 }
 
 .printing div[class^="TopNav-"] header {
@@ -165,6 +98,23 @@ div[class*="BodyPart-heading-"] {
     margin-top: 0;
 }
 
+.printing div[class^="MuiTabs-"] {
+    display: none;
+}
+
+.printing div[class^="MuiCollapse-container-"] {
+    margin-top: -2em;
+}
+
+.printing div[class*="MuiExpansionPanelSummary-expandIcon-"] {
+    display: none;
+}
+
+.printing div[class*="MuiExpansionPanel-"] {
+    box-shadow: none;
+    border: 0px solid #c7c7c7;
+}
+
 .printing img[class*="SectionDetails-techStack_img-"] {
     height: 1.5em;
 }
@@ -178,32 +128,63 @@ div[class*="BodyPart-heading-"] {
 .printing .Technologies p[class*="BodyPart-heading-"] {
     min-width: 100%;
 }
+
+.printing h3[class*="MuiTypography-subheading-"] {
+    margin: 0;
+}
+
+.printing h3[class*="MuiExpansionPanel-root-"] {
+    margin: 0;
+}
+
+.printing div[class*="MuiExpansionPanel-expanded-"] {
+    margin: 0;
+}
 .printing p[class*="BodyPart-secondaryHeading-"] {
     margin-left: 0;
     font-size: 1em;
 }
+.printing .Technologies div[class*="MuiExpansionPanel-expanded-"] {
+    max-height: 3.5em;
+}
+
+.printing .collapsed div[class*="MuiExpansionPanel-"] {
+    border: none;
+}
+.printing .collapsed div[class*="MuiExpansionPanelSummary-expanded-"] {
+    margin: -1.5em 0 1.25em 0;
+}
 .printing .collapsed div[class*="BodyPart-title-"] {
     margin-bottom: 2.5em;
+}
+.printing div[class*="MuiExpansionPanelDetails-root-"] {
+    padding: 0 1em 1em;
+}
+
+.printing div[class*="MuiExpansionPanelSummary-root-"] {
+    padding: 0;
 }
 .printing .collapsed h3[class*="BodyPart-title-"] {
     margin: 0 0 2.5em 0;
 }
+.printing .Technologies h3[class*="BodyPart-title-"] {
+    margin: 0 0 2em 0;
+}
+.printing .Technologies {
+    margin-bottom: 2em;
+}
 
-.printing .techStack {
-    max-width: 6em;
+.printing div[class*="SectionDetails-techStack-"] {
+    max-width: 5em;
     bottom: 0;
 }
-.printing .techStack div {
+.printing div[class*="SectionDetails-techStack-"] div {
     display: inline-block;
     margin-right: 1em;
 }
 
-.printing .table.Education {
-    margin-top: 1.5rem;
-}
-
-.printing .blocks.Visa.Status {
-    margin-top: 1.5rem;
+.printing aside[class*="SectionDetails-fullText-"] {
+    max-width: 42em;
 }
 
 .printing div[class*="BodyPart-root-"] {
@@ -234,8 +215,4 @@ div[class*="BodyPart-heading-"] {
     margin-top: 4em;
     letter-spacing: 1.5px;
     bottom: 0;
-}
-
-.printing .flag {
-    margin-top: 0;
 }

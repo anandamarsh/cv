@@ -1,0 +1,19 @@
+image: node:8.11.3
+ 
+pages:
+  cache:
+    paths:
+    - node_modules/
+ 
+  stage: deploy
+  script:
+  - npm install
+  - npm run build
+  environment:
+    name: production
+    url: https://amarsh.hk.gitlab.io/ethprobe
+  artifacts:
+    paths:
+    - public # mandatory, other folder won't work'
+  only:
+  - master
